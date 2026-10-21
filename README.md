@@ -43,3 +43,10 @@ Inside `buyProduct()`:
 | `if (total >= 20000 && m != NULL)` | Earns +100 points based on the total after discount |
 | `Member *m = (choice == 0) ? NULL : &dbMember[choice-1]` | Picks the member's address, or NULL for a non-member |
 | `do { ... } while (choice != 4)` | Repeats the menu until the user chooses Exit |
+
+
+## SCREENSHOTS...!!!
+
+<img width="1853" height="923" alt="Screenshot 2026-10-22 003739" src="https://github.com/user-attachments/assets/495c2fe8-40b5-4e88-adb6-9c1d6a015b05" />
+<img width="1854" height="867" alt="Screenshot 2026-10-22 003807" src="https://github.com/user-attachments/assets/8aef1a85-9a4a-4ecf-be78-187843f66802" />
+
