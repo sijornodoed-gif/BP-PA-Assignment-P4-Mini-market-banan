@@ -231,6 +231,12 @@ int main() {
 ```
 
 
+## Fun to remember(?)
+- The purpose of the asterisk (*) is as the address of a home!
+- The purpose of the ampersand (&) is as the map (referencing) of the house for the courier!
+
+
+
 ## Mandatory 1: Update Product Price
 
 ```c
